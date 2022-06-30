@@ -2,7 +2,7 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#6abadeba;  
+    background-color:#f3f6f4;  
     font-family: 'Arial';  
 }  
 .login{  
@@ -11,17 +11,17 @@ body
         margin: auto;  
         margin: 20 0 0 450px;  
         padding: 80px;  
-        background: #23463f;  
+        background: #ffffff;  
         border-radius: 15px ;  
           
 }  
 h2{  
     text-align: center;  
-    color: #277582;  
+    color: #16537E;  
     padding: 20px;  
 }  
 label{  
-    color: #08ffd1;  
+    color: #999999;  
     font-size: 17px;  
 }  
 #Uname{  
@@ -45,7 +45,7 @@ label{
     border: none;  
     border-radius: 17px;  
     padding-left: 7px;  
-    color: blue;  
+    color: white;  
   
   
 }  
@@ -55,5 +55,5 @@ span{
 }  
 a{  
     float: right;  
-    background-color: grey;  
+    background-color: blue;  
 }  
